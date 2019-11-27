@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 
 import java.util.ArrayList;
 import java.util.Collections;

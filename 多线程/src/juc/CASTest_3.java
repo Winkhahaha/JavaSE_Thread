@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 /*
  * Ä£ÄâCASËã·¨
  */

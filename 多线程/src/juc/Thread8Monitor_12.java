@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 
 /*
  * ÅÐ¶Ï´òÓ¡µÄone or two

@@ -1,4 +1,4 @@
-package edu.juc.线程池;
+package juc.线程池;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinTask;

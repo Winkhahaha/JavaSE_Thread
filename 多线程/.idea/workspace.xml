@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7efc6f36-c4cf-4a19-96a4-e5eb6e61f272" name="Default Changelist" comment="" />
+    <list default="true" id="7efc6f36-c4cf-4a19-96a4-e5eb6e61f272" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/ABCAlternate_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/ABCAlternate_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/AtomicDemoTest_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/AtomicDemoTest_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/CASTest_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/CASTest_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/CallableTest_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/CallableTest_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/CopyOnWriteArrayListTest_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/CopyOnWriteArrayListTest_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/CountDownLatchTest_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/CountDownLatchTest_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/LockProductorAndConsumer_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/LockProductorAndConsumer_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/LockTicketTest_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/LockTicketTest_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/ReadWriteLockTest_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/ReadWriteLockTest_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/SynProductorAndConsumer_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/SynProductorAndConsumer_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/Thread8Monitor_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/Thread8Monitor_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/VolatileTest_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/VolatileTest_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/线程池/ForkJoinPool_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/线程池/ForkJoinPool_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/线程池/ScheduleThreadPoolTest_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/线程池/ScheduleThreadPoolTest_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juc/线程池/ThreadPool_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/线程池/ThreadPool_13.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,130 +59,33 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-143325995">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/De01_Notify.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="21" selection-end-column="18" />
-              <folding>
-                <element signature="e#169#339#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#358#528#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/De02_NotifyAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1032">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="43" selection-end-column="18" />
-              <folding>
-                <element signature="e#141#463#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#482#804#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#823#1145#0" expanded="true" />
-                <element signature="e#1144#1145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/De03_ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#238#563#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#582#907#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
-                <element signature="e#926#1251#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadGroup/De01_ThreadGroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-456">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadGroup/MyRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Executors/De01_Executors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/createThread/De05_Callable.java">
+        <entry file="file://$PROJECT_DIR$/src/createThread/De02_newThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/两种单例设计模式/De01_Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="method#LazySingLeton#0;class#LazySingLeton#0" />
-                <element signature="method#AnotherSingLeton#0;class#AnotherSingLeton#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/createThread/De03_impRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/createThread/De01_Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -178,6 +98,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -216,6 +139,21 @@
         <option value="$PROJECT_DIR$/src/threadGroup/MyRunnable.java" />
         <option value="$PROJECT_DIR$/src/Executors/De01_Executors.java" />
         <option value="$PROJECT_DIR$/src/createThread/De05_Callable.java" />
+        <option value="$PROJECT_DIR$/src/juc/CopyOnWriteArrayListTest_4.java" />
+        <option value="$PROJECT_DIR$/src/juc/ABCAlternate_9.java" />
+        <option value="$PROJECT_DIR$/src/juc/AtomicDemoTest_2.java" />
+        <option value="$PROJECT_DIR$/src/juc/CallableTest_6.java" />
+        <option value="$PROJECT_DIR$/src/juc/CASTest_3.java" />
+        <option value="$PROJECT_DIR$/src/juc/CountDownLatchTest_5.java" />
+        <option value="$PROJECT_DIR$/src/juc/LockProductorAndConsumer_9.java" />
+        <option value="$PROJECT_DIR$/src/juc/LockTicketTest_7.java" />
+        <option value="$PROJECT_DIR$/src/juc/ReadWriteLockTest_10.java" />
+        <option value="$PROJECT_DIR$/src/juc/Thread8Monitor_12.java" />
+        <option value="$PROJECT_DIR$/src/juc/VolatileTest_1.java" />
+        <option value="$PROJECT_DIR$/src/juc/SynProductorAndConsumer_8.java" />
+        <option value="$PROJECT_DIR$/src/juc/线程池/ForkJoinPool_15.java" />
+        <option value="$PROJECT_DIR$/src/juc/线程池/ScheduleThreadPoolTest_14.java" />
+        <option value="$PROJECT_DIR$/src/juc/线程池/ThreadPool_13.java" />
       </list>
     </option>
   </component>
@@ -232,17 +170,20 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="445" />
     <option name="y" value="10" />
     <option name="width" value="1155" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,39 +206,25 @@
               <item name="多线程" type="b2602c69:ProjectViewProjectNode" />
               <item name="多线程" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadGroup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="多线程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="两种单例设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="多线程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="两种单例设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="De01_Singleton.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="createThread" type="462c0819:PsiDirectoryNode" />
+              <item name="De02_newThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573995070834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574870269952" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1526971" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -325,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.De05_Callable">
+  <component name="RunManager" selected="Application.De02_newThread">
     <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Binary" />
       <module name="多线程" />
@@ -365,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="De03_ReentrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.De03_ReentrantLock" />
+    <configuration name="De02_newThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createThread.De02_newThread" />
       <module name="多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="createThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.De03_ReentrantLock" />
       <item itemvalue="Application.Binary" />
       <item itemvalue="Application.De01_ThreadGroup" />
       <item itemvalue="Application.De01_Executors" />
       <item itemvalue="Application.De05_Callable" />
+      <item itemvalue="Application.De02_newThread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.De02_newThread" />
         <item itemvalue="Application.De05_Callable" />
         <item itemvalue="Application.De01_Executors" />
         <item itemvalue="Application.De01_ThreadGroup" />
         <item itemvalue="Application.Binary" />
-        <item itemvalue="Application.De03_ReentrantLock" />
       </list>
     </recent_temporary>
   </component>
@@ -420,17 +347,19 @@
       <updated>1573908997442</updated>
       <workItem from="1573908999104" duration="7254000" />
       <workItem from="1573973657663" duration="12828000" />
+      <workItem from="1574732178972" duration="13000" />
+      <workItem from="1574869895572" duration="369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20082000" />
+    <option name="totallyTimeSpent" value="20464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20576407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,16 +368,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26062322" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26062322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -520,10 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5112">
           <caret line="255" column="28" selection-start-line="255" selection-start-column="28" selection-end-line="255" selection-end-column="28" />
-          <folding>
-            <element signature="e#17401#17402#0" expanded="true" />
-            <element signature="e#17467#17468#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,12 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#181#592#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#611#1022#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,10 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="e#110#262#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,11 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,10 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="54" column="1" lean-forward="true" selection-start-line="30" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="e#221#418#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -637,40 +543,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createThread/De02_newThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createThread/De01_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/De01_Notify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="e#169#339#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#358#528#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Demo.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/concurrent/locks/Condition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2450">
@@ -678,51 +551,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/De02_NotifyAll.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Binary.java" />
+    <entry file="file://$PROJECT_DIR$/src/thread/De01_Notify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#141#463#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#482#804#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#823#1145#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="504">
+          <caret line="21" column="18" selection-start-line="8" selection-start-column="7" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Binary.java">
+    <entry file="file://$PROJECT_DIR$/src/thread/De02_NotifyAll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1032">
+          <caret line="43" column="18" selection-start-line="32" selection-start-column="8" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/De03_ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        <state relative-caret-position="1752">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#238#563#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#582#907#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#926#1251#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/createThread/De03_impRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/threadGroup/De01_ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadGroup/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Executors/De01_Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="38" selection-start-line="14" selection-start-column="7" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -737,39 +611,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadGroup/De01_ThreadGroup.java">
+    <entry file="file://$PROJECT_DIR$/src/createThread/De03_impRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadGroup/MyRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/createThread/De01_Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Executors/De01_Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/createThread/De05_Callable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="256">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/CopyOnWriteArrayListTest_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/ABCAlternate_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/AtomicDemoTest_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/CallableTest_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/CASTest_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/CountDownLatchTest_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/LockProductorAndConsumer_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/LockTicketTest_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/ReadWriteLockTest_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/Thread8Monitor_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/VolatileTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/SynProductorAndConsumer_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/线程池/ForkJoinPool_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/线程池/ScheduleThreadPoolTest_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/线程池/ThreadPool_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/createThread/De02_newThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

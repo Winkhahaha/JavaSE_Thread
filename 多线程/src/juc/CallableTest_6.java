@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

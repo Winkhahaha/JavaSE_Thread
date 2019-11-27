@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 
 /*
  * 生产者消费者案例

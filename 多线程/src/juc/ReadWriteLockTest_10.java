@@ -1,4 +1,4 @@
-package edu.juc;
+package juc;
 
 import java.util.Random;
 import java.util.concurrent.locks.ReadWriteLock;
@@ -6,8 +6,8 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /*
  * ReadWriteLock:
- * ¶à¸öÏß³Ì¶¼¾ÛÔÚÐ´²Ù×÷(¶ÁÐ´,Ð´Ð´),ÐèÒª»¥³â
- * ¶Á¶Á²»ÐèÒª»¥³â
+ * ï¿½ï¿½ï¿½ï¿½ß³Ì¶ï¿½ï¿½ï¿½ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ð´,Ð´Ð´),ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½
  */
 public class ReadWriteLockTest_10 {
 	public static void main(String[] args) {
@@ -36,7 +36,7 @@ class ReadWriteLockDemo{
 	private int number = 0;
 	private ReadWriteLock lock = new ReentrantReadWriteLock();
 	
-	//¶Á
+	//ï¿½ï¿½
 	public void get() {
 		lock.readLock().lock();
 		try {
@@ -45,7 +45,7 @@ class ReadWriteLockDemo{
 		} catch (Exception e) {
 			// TODO: handle exception
 		}finally {
-			lock.readLock().unlock();//ÊÍ·ÅËø
+			lock.readLock().unlock();//ï¿½Í·ï¿½ï¿½ï¿½
 		}
 	}
 	
