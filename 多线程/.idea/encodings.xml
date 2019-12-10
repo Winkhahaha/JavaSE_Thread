@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/juc/ABCAlternate_9.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/AtomicDemoTest_2.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/CASTest_3.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/CallableTest_6.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/CopyOnWriteArrayListTest_4.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/CountDownLatchTest_5.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/LockProductorAndConsumer_9.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/LockTicketTest_7.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/SynProductorAndConsumer_8.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/Thread8Monitor_12.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/VolatileTest_1.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/线程池/ForkJoinPool_15.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/线程池/ScheduleThreadPoolTest_14.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/juc/线程池/ThreadPool_13.java" charset="GBK" />
-  </component>
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" />
 </project>
