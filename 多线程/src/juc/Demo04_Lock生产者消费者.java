@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class Demo04_Lock生产者消费者 {
     public static void main(String args[]) {
-    Case c = new Case();
+        Case c = new Case();
         new Thread(() -> {
             for (int i = 0; i <= 10; i++) {
                 try {
@@ -78,8 +78,8 @@ class Case {
             while (num == 0) {
                 condition.await();
             }
-            num--;
-            System.out.println(Thread.currentThread().getName() + "拿" + num + "个");
+            //num--;
+            System.out.println(Thread.currentThread().getName() + "拿" + num-- + "个,剩余个数:" + num);
             condition.signalAll();
         } finally {
             lock.unlock();
