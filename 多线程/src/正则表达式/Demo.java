@@ -9,15 +9,15 @@ public class Demo {
         // 匹配十一位数字
         String regex = "\\d{11}";
         String str = "12345678901";
-        System.out.println(str.matches(regex));
+        System.out.println(str.matches(regex));     // true
     }
 
     @Test
     public void test02() {
-        // 匹配以'hello'开头,结尾
+        // 匹配'hello'
         String regex = "hello";
-        String str = "aaahelloooo";
-        System.out.println(str.matches(regex));
+        String str = "hello";
+        System.out.println(str.matches(regex));     // true
     }
 
     @Test
@@ -25,7 +25,7 @@ public class Demo {
         // 匹配[abcdefgh]中任意一个字符,后缀为ello
         String regex = "[abcdefgh]ello";
         String str = "aello";
-        System.out.println(str.matches(regex));
+        System.out.println(str.matches(regex));     // true
     }
 
     @Test
@@ -33,19 +33,23 @@ public class Demo {
         // 匹配[a-zA-Z0-9]中任意一个字符,后缀为ello
         String regex = "[a-zA-Z0-9]ello";
         String str = "2ello";
-        String str2 = "aello";
-        String str3 = "Bello";
-        System.out.println(str3.matches(regex));
+        System.out.println(str.matches(regex));     // true
+        str = "aello";
+        System.out.println(str.matches(regex));     // true
+        str = "Bello";
+        System.out.println(str.matches(regex));     // true
     }
 
     @Test
     public void test05() {
-        // 匹配多个[a-zA-Z0-9]+
+        // 匹配大于0个[a-zA-Z0-9]+
         String regex = "[a-zA-Z0-9]+";
-        String str = "2ello";
-        String str2 = "aello";
-        String str3 = "Bello";
-        System.out.println(str3.matches(regex));
+        String str = "";
+        System.out.println(str.matches(regex));     // false
+        str = "aeBB4";
+        System.out.println(str.matches(regex));     // true
+        str = "BelBTU";
+        System.out.println(str.matches(regex));     // true
     }
 
     @Test
@@ -124,7 +128,7 @@ public class Demo {
 
     @Test
     public void test12() {
-        // \d 匹配0-9的字符3个\d{3}
+        // \d 匹配0-9的字符
         // \D 不匹配数字
         String regex = "\\d{3}";
         String str = "hel";
@@ -141,7 +145,7 @@ public class Demo {
 
     @Test
     public void test13() {
-        // \w 匹配所有字符[a-zA-Z0-9]
+        // \w 匹配[a-zA-Z0-9]
         // \W 不匹配[a-zA-Z0-9]
         String regex = "\\w{3}";
         String str = "hel";
@@ -238,7 +242,16 @@ public class Demo {
     public void test19() {
         // 匹配邮件格式: [a-zA-Z0-9]@[a-z0-9].com
         String regex = "\\w*@[a-z0-9]*\\.com";
-        String str = "min356haha@fox163qqmail.com";
+        String str = "Min356haha@fox163qqmail.com";
+        System.out.println(str.matches(regex));     // true
+    }
+
+    @Test
+    public void test20() {
+        // 匹配单个汉字 [\u4e00-\u9fa5]
+        // 匹配多个汉字 [\u4e00-\u9fa5]*
+        String regex = "[\\u4e00-\\u9fa5]*.";
+        String str = "你好吗？";
         System.out.println(str.matches(regex));     // true
     }
 }
