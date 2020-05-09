@@ -251,7 +251,7 @@ public class Demo {
         // 匹配单个汉字 [\u4e00-\u9fa5]
         // 匹配多个汉字 [\u4e00-\u9fa5]*
         String regex = "[\\u4e00-\\u9fa5]*.";
-        String str = "你好吗？";
+        String str = "请问你好吗？";
         System.out.println(str.matches(regex));     // true
     }
 }
