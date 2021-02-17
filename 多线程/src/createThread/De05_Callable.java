@@ -1,7 +1,5 @@
 package createThread;
 
-import threadGroup.MyRunnable;
-
 import java.util.concurrent.*;
 
 public class De05_Callable {
