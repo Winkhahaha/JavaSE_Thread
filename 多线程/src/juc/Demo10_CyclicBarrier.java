@@ -13,9 +13,9 @@ public class Demo10_CyclicBarrier {
         });
 
         for (int i = 1; i <= 7; i++) {
-             int temp = i;
-            new Thread(()->{
-                System.out.println(Thread.currentThread().getName()+"-->"+temp+"龙珠");
+            int temp = i;
+            new Thread(() -> {
+                System.out.println(Thread.currentThread().getName() + "-->" + temp + "龙珠");
                 try {
                     cyclicBarrier.await();      //等他们都执行完后,执行一个+1,到7执行召唤
                 } catch (InterruptedException e) {
@@ -23,7 +23,7 @@ public class Demo10_CyclicBarrier {
                 } catch (BrokenBarrierException e) {
                     e.printStackTrace();
                 }
-            },i+"线程").start();
+            }, i + "线程").start();
         }
     }
 }

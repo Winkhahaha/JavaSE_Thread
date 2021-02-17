@@ -20,12 +20,15 @@ public class Demo02_Lambda {
 //        };
 //        foo.sayHello();
 
-        Foo foo2 = (x, y) -> {
-            return x + y;                   //有传参,有返回值
-        };
+        Foo foo2 = (x, y) -> x - y;                   //有传参,有返回值
         System.out.println(foo2.add(3, 5));
         foo2.print();
         Foo.print2();
+        System.out.println(test((x, y) -> x - y));
+    }
+
+    private static int test(Foo foo) {
+        return foo.add(5, 6);
     }
 }
 
@@ -35,13 +38,13 @@ public class Demo02_Lambda {
 @FunctionalInterface
 interface Foo {
     //public void sayHello();
-    public int add(int x, int y);
+    int add(int x, int y);
 
     default void print() {
         System.out.println("我是接口中有方法体的方法声明!");
     }
 
-    public static void print2(){
+    static void print2() {
         System.out.println("接口中的静态方法!");
     }
 }
