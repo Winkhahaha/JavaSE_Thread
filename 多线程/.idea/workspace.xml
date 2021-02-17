@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7efc6f36-c4cf-4a19-96a4-e5eb6e61f272" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JDK8Test/lambda/FuncNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程/createThread/De04_匿名createThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程/createThread/De04_匿名createThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程/createThread/De05_Callable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程/createThread/De05_Callable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程/createThread/MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程/createThread/MyCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/多线程/JDK8Test/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程/JDK8Test/lambda/LambdaTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JDK8Test/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDK8Test/lambda/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createThread/De05_Callable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/createThread/De05_Callable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +91,7 @@
       <recent name="E:\EE Test\多线程\src\synchronize" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LambdaTest.test02">
-    <configuration name="Demo02_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.Demo02_Lambda" />
-      <module name="多线程" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LambdaTest.test03">
     <configuration name="JDK8Test.stream.test in 多线程" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="多线程" />
       <extension name="coverage">
@@ -155,6 +138,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK8Test.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDK8Test.lambda" />
+      <option name="MAIN_CLASS_NAME" value="JDK8Test.lambda.LambdaTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamIntermediateOperatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="多线程" />
       <extension name="coverage">
@@ -171,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo02_Lambda" />
       <item itemvalue="JUnit.StreamIntermediateOperatorTest" />
       <item itemvalue="JUnit.LambdaTest.test01" />
       <item itemvalue="JUnit.JDK8Test.stream.test in 多线程" />
       <item itemvalue="JUnit.LambdaTest.test02" />
+      <item itemvalue="JUnit.LambdaTest.test03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LambdaTest.test03" />
         <item itemvalue="JUnit.LambdaTest.test02" />
         <item itemvalue="JUnit.JDK8Test.stream.test in 多线程" />
         <item itemvalue="JUnit.LambdaTest.test01" />
         <item itemvalue="JUnit.StreamIntermediateOperatorTest" />
-        <item itemvalue="Application.Demo02_Lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +273,7 @@
       <workItem from="1601376991776" duration="538000" />
       <workItem from="1602774833497" duration="612000" />
       <workItem from="1613393331131" duration="2133000" />
-      <workItem from="1613545586855" duration="2639000" />
+      <workItem from="1613545586855" duration="5495000" />
     </task>
     <task id="LOCAL-00001" summary="线程池的使用submit提交">
       <created>1584596597021</created>
@@ -366,22 +365,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613401034663" />
-    <state width="1483" height="210" key="GridCell.Tab.0.bottom" timestamp="1613551307064">
+    <state width="1483" height="210" key="GridCell.Tab.0.bottom" timestamp="1613554989719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613551307064" />
-    <state width="1483" height="210" key="GridCell.Tab.0.center" timestamp="1613551307063">
+    <state width="1483" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613554989719" />
+    <state width="1483" height="210" key="GridCell.Tab.0.center" timestamp="1613554989718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613551307063" />
-    <state width="1483" height="210" key="GridCell.Tab.0.left" timestamp="1613551307063">
+    <state width="1483" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613554989718" />
+    <state width="1483" height="210" key="GridCell.Tab.0.left" timestamp="1613554989718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613551307063" />
-    <state width="1483" height="210" key="GridCell.Tab.0.right" timestamp="1613551307063">
+    <state width="1483" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613554989718" />
+    <state width="1483" height="210" key="GridCell.Tab.0.right" timestamp="1613554989718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613551307063" />
+    <state width="1483" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1613554989718" />
     <state x="495" y="45" key="RollbackChangesDialog" timestamp="1613551146506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
